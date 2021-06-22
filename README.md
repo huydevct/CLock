@@ -1,3 +1,3 @@
-# My JS+HTML+CSS Clock
+# My practice project with JS, HTML and CSS
 
-My practice project
+Learning JS (main)
